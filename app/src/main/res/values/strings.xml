@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">IntentProject</string>
+    <string name="click">click to display</string>
+    <string name="password">Password</string>
+    <string name="sing_in">Sing in</string>
+    <string name="dont_have_account">Dont have account?</string>
+    <string name="sing_up">Sing up</string>
+</resources>
